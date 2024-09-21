@@ -1,18 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Emejleano 👋
 
-<!--
-**emejleano/emejleano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emejleano&layout=compact&theme=dark)
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools
+- JavaScript, Python, Java, Go, HTML, CSS, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=emejleano&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emejleano)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emejleano&theme=tokyonight&card_width=496)](https://git.io/streak-stats)
